@@ -6,6 +6,9 @@ Reference: https://prometheus.io/download/
 
 * move to /opt directory
 ```
+cd /opt/
+```
+```
 wget https://github.com/prometheus/prometheus/releases/download/v3.0.1/prometheus-3.0.1.linux-amd64.tar.gz
 ```
 
